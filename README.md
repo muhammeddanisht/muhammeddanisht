@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Danish 👋
 
-<!--
-**muhammeddanisht/muhammeddanisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught AI/ML Engineer from Kerala, India.
 
-Here are some ideas to get you started:
+## 🔨 What I Build
+- LangGraph Agents (RAG + Tools + Memory)
+- Fine-tuned LLMs (DistilBERT, LLaMA)
+- RAG Pipelines (LangChain + FAISS + HuggingFace)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+Python · LangChain · LangGraph · PyTorch · HuggingFace · Groq
+
+## 🚀 Live Projects
+- [RAG Chatbot](https://huggingface.co/spaces/danish811/rag-chatbot-v3)
+- [Spam Detector](https://huggingface.co/Danisht/spam-detector-distilbert)
+- [LangGraph Agents](https://github.com/muhammeddanisht/langgraph-agents)
+
+## 📫 Connect
+[LinkedIn](your-linkedin) · danish811@huggingface
