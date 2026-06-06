@@ -1,4 +1,4 @@
-# Hi, I'm Danish 👋
+# Hi, I'm Danish
 
 Self-taught AI/ML Engineer from Kerala, India.
 
